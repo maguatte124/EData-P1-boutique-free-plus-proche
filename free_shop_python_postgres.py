@@ -7,12 +7,15 @@ from math import radians, cos, sin, asin, sqrt
 df = pd.read_csv("/home/etienne/Documents/etienne/Documents/VDE Python/EData-P1-boutique-free-plus-proche/free_shop.csv", sep=";")
 
 # === 2. Connexion PostgreSQL ===
+from decouple import config
+import psycopg2
+
 conn = psycopg2.connect(
-    dbname="free_shop",
-    user="etienne",
-    password="Senfidel1107.",
-    host="localhost",
-    port="5432"
+    dbname=config('DB_NAME'),
+    user=config('DB_USER'),
+    password=config('DB_PASSWORD'),
+    host=config('DB_HOST'),
+    port=config('DB_PORT')
 )
 cursor = conn.cursor()
 
