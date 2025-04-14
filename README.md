@@ -1,4 +1,6 @@
-# Projet-1-trouver-boutique-proche (PYTHON et BASE DE DONNEES)
+# Projet-1-(PYTHON et BASE DE DONNEES)
+
+# Trouver la boutique free la plus proche 
 
 ## Contexte
 
