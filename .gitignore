@@ -1,0 +1,12 @@
+.env
+.venv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+*.egg-info/
+*.egg
+*.zip
+*.tar.gz
