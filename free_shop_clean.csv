@@ -1,0 +1,227 @@
+longitude;latitude;samsung;iphone;huawei;departement;ville;adresse
+-1.51815;43.49507;5;7;10;64;Anglet;Avenue Belle Marion
+-1.42988;46.66976;3;3;2;85;La Roche-sur-Yon;15 Rue Georges Clémenceau
+-1.43024;46.69141;5;9;5;85;La Roche-sur-Yon;CC Les Flaneries
+-1.54907;47.16152;8;4;8;44;Rezé;10 rond-point Corbinerie ,CC Océane
+-1.46916;47.18722;0;4;5;44;Basse-Goulaine;CC Leclerc Pôle Sud
+-1.49383;47.19164;9;2;1;44;Saint-Sébastien-sur-Loire;CC Auchan
+-1.57205;47.19424;10;6;3;44;Rezé;CC Leclerc Atout Sud ,1 Rue Ordronneau
+-1.5351;47.20456;10;3;10;44;Nantes;6 Rue du Dr Zamenhoff ,CC Beaulieu
+-1.55925;47.21496;2;8;8;44;Nantes;14 Rue de la Contrescarpe
+-3.16566;48.56226;5;4;1;22;Guingamp;10 Place du champ au Roy
+-1.55471;47.21563;2;10;10;44;Nantes;28 Rue de la Marne ,Quartier Decré
+-1.63044;47.22492;2;6;9;44;Saint-Herblain;CC Atlantis
+-1.51842;47.25076;6;5;3;44;Nantes;14 Route de Paris ,CC Paridis
+-2.26452;47.25845;8;5;10;44;Saint-Nazaire;CC Géant Océanis
+-2.21331;47.27441;7;0;3;44;Saint-Nazaire;2 Avenue de la République
+-2.39138;47.28597;2;0;8;44;La Baule-Escoublac;128 Avenue du Général de Gaulle
+-2.20884;47.30136;9;3;8;44;Trignac;CC Auchan
+-2.42696;47.32693;10;10;7;44;Guérande;Place du Marhallé
+-2.08496;47.64874;2;1;3;35;Redon;50 Grande-Rue
+-2.76058;47.65561;4;5;4;56;Vannes;15 Place de la République
+-2.79326;47.66015;3;10;4;56;Vannes;CC Carrefour
+-2.9868;47.6673;10;9;1;56;Auray;10 Rue du Maréchal Foch
+-2.79373;47.66736;8;6;2;56;Vannes;CC Leclerc
+-1.37718;47.71792;0;3;1;44;Châteaubriant;5 Place de la Motte
+-3.36336;47.74834;3;10;5;56;Lorient;13 Place Aritstide Briand
+-3.39713;47.76576;5;3;1;56;Lorient;CC Carrefour
+-0.36795;43.29456;6;9;5;64;Pau;Rue Louis Barthou
+-1.05382;43.70975;7;5;7;40;Dax;38 Rue des Carmes
+-0.58472;44.83872;2;6;1;33;Bordeaux;CC Mériadeck
+-0.57845;44.84174;5;1;1;33;Bordeaux;52 Cours de l'Intendance
+-0.22136;44.90157;9;9;2;33;Libourne;CC Carrefour ,102 Avenue Général de Gaulle
+-0.24219;44.91571;3;7;0;33;Libourne;58 Rue Gambetta
+-1.02735;45.62466;3;5;0;17;Royan;8 bis Boulevard de la République
+-0.32633;45.6942;2;8;9;16;Cognac;29 Rue d’Angoulême
+-0.63267;45.74576;9;3;3;17;Saintes;22 Rue d’Alsace-Lorraine
+-0.96144;45.93549;1;3;6;17;Rochefort;53 Avenue Charles de Gaulle
+-1.15074;46.16116;0;7;9;17;La Rochelle;31 Rue Saint-Yon
+-1.11774;46.17372;8;2;6;17;Puilboreau;CC Carrefour ,ZA de Beaulieu
+-0.46229;46.32487;2;6;9;79;Niort;26 Rue Victor Hugo
+-0.8067;46.4663;7;0;7;85;Fontenay-le-Comte;12 Rue Georges Clémenceau
+-0.24949;46.6481;8;3;3;79;Parthenay;38 Rue Jean Jaurès
+-0.49274;46.83925;3;7;10;79;Bressuire;23 Rue de la Huchette
+-1.01455;46.87096;5;4;5;85;Les Herbiers;17 Rue de l’Eglise
+-0.90116;47.04227;0;2;1;49;Cholet;CC Géant ,Route des Sables d’O.
+-0.87739;47.06253;3;4;7;49;Cholet;Place Alexis Guérineau
+-0.07864;47.25827;9;7;2;49;Saumur;35 Rue du Portail Louis
+-0.52473;47.46725;8;1;8;49;Angers;CC Espace Anjou ,75 Rue Montaigne
+-0.59538;47.46833;4;10;10;49;Angers;CC Carrefour Grand-Maine
+-0.55445;47.47214;4;0;5;49;Angers;CC Fleur d’Eau ,Rue Plantagenêt
+-0.55046;47.47277;1;3;10;49;Angers;10 bis Rue Lenepveu
+-0.54232;47.4891;2;2;4;49;Angers;CC Carrefour Saint-Serge
+-0.07385;47.69941;6;1;5;72;La Flèche;28 Grande-Rue
+-4.52669;48.38848;9;0;6;29;Brest;CC Carrefour Iroise
+-4.48905;48.38817;1;3;4;29;Brest;64 Rue de Siam
+-4.4877;48.38911;3;10;6;29;Brest;95 Rue de Siam
+-4.48241;48.3928;9;6;7;29;Brest;Rue Dupleix
+-4.48174;48.39294;1;6;8;29;Brest;Rue Jean Jaurès
+-4.46627;48.4076;1;1;0;29;Brest;CC Géant ,29 Route Gouesnou
+-4.32743;48.09396;3;2;4;29;Douarnenez;25 Rue Voltaire
+-4.32301;48.57334;1;3;5;29;Lesneven;1 Rue de Jérusalem
+-4.24799;48.4514;8;10;5;29;Landerneau;6 Rue de la Tour d'Auvergne
+-4.2216;47.865;5;4;5;29;Pont-l'Abbé;10 Rue Jean Jacques Rousseau
+-4.10525;47.99623;5;3;10;29;Quimper;46 Rue de Kéréon
+-4.10309;47.99614;4;7;8;29;Quimper;26 Place Saint-Corentin
+-4.09288;47.97566;6;2;0;29;Quimper;CC Géant Cornouaille ,163 Route de Bénodet
+-4.08128;48.01498;9;10;8;29;Quimper;CC Gourvily
+-4.07054;48.50978;2;5;0;29;Landivisiau;6 RUE DE LA TOUR D'AUVERGNE
+-3.82825;48.57815;2;6;5;29;Morlaix;8 Place des Otages
+-3.91796;47.87188;0;0;10;29;Concarneau;2 Place Jean Jaurès
+-3.85191;48.57439;1;2;9;29;Saint-Martin-des-Champs;CC Géant Bretagnia
+-3.57016;48.27702;4;0;6;29;Carhaix-Plouguer;Place du Champ de Foire
+-3.34343;47.77556;6;9;5;56;Lanester;CC Géant
+-3.14917;48.56153;3;4;0;22;Guingamp;10 Place du Champ au Roy
+-2.9657;48.06652;1;9;9;56;Pontivy;46 Rue Nationale
+-2.72855;48.49653;5;10;6;22;Langueux;1 Rue Jules Verne
+-2.39831;47.93103;0;9;7;56;Ploërmel;Rue du Général Dubreton
+-2.04863;48.45374;2;5;5;22;Dinan;2 Rue Châteaubriand
+-0.77394;48.07069;7;8;1;53;Laval;5 Avenue du Général de Gaulle
+-0.7996;48.07934;1;0;8;53;Laval;CC Grenoux ,Boulevard de Tassigny
+-1.67791;48.08253;4;7;5;35;Rennes;CC Alma ,Rue du Bosphore
+-1.67945;48.10465;4;7;3;35;Rennes;40 Place du Colombier
+-1.67796;48.10986;2;5;10;35;Rennes;Place de la République
+-1.58947;48.1122;3;2;8;35;Cesson-Sévigné;CC Carrefour La Rigoudière
+-1.67946;48.11331;8;0;8;35;Rennes;9 Rue Bastard
+-1.20714;48.11484;0;2;4;35;Vitré;CC Leclerc ,Rue du Mée
+-1.6958;48.13841;9;5;1;35;Rennes;CC Géant Grand-Quartier
+-1.76676;48.139;1;1;6;35;Pacé;CC Cora ,ZA de la Giraudais
+-0.62209;48.30347;2;1;10;53;Mayenne;40 Place Gambetta
+-1.18218;48.3466;9;1;8;35;Fougères;CC Carrefour ,39 Boulevard Grolay
+-1.99573;48.62401;9;5;2;35;Saint-Malo;CC La Madeleine
+-1.36046;48.68554;10;8;2;50;Avranches;17 Rue de la Constitution
+-0.02044;48.74427;6;0;7;61;Argentan;36 Rue de la Chaussée
+-0.56827;48.7485;2;8;10;61;Flers;5 Rue de Messei
+-1.59457;48.83728;4;2;4;50;Granville;57 Rue Couraye
+-0.89077;48.83818;9;7;9;14;Vire;16 Rue de la Saulnerie
+-1.44417;49.04928;0;1;7;50;Coutances;4 Rue Saint-Nicolas
+-1.09415;49.11442;5;10;2;50;Saint-Lô;23 Rue Torteron
+-0.29341;49.16539;8;5;2;14;Mondeville;CC Carrefour ,Route de Paris
+-0.36163;49.18203;6;4;3;14;Caen;29 Boulevard du Maréchal Leclerc
+-0.36453;49.18252;3;1;3;14;Caen;8 Rue de Bras
+-0.70697;49.27863;7;10;8;14;Bayeux;74 bis Rue de Saint-Malo
+-1.59872;49.60262;3;7;1;50;La Glacerie;CC Auchan Cotentin
+-1.62529;49.63958;0;8;1;50;Cherbourg-Octeville;11 Rue Albert Mahieu
+2.18816;43.5886;9;7;0;81;Castres;Centre Ccial Auchan
+1.48423;43.6316;1;9;7;31;Balma-Gramont;CC Occitian
+0.16669;44.49999;5;5;2;47;Marmande;2-16 Rue Charles de Gaulle
+0.10516;45.61913;7;4;4;16;La Couronne;CC Auchan ,Route de Bordeaux
+0.18269;45.69298;6;4;4;16;Champniers;CC Géant ,ZAC Les Montagnes
+0.37344;46.57546;3;9;4;86;Poitiers;CC Géant Beaulieu
+0.34309;46.58253;10;6;7;86;Poitiers;18 Rue du Marché Notre-Dame
+0.37;46.66609;0;3;8;86;Chasseneuil-du-Poitou;CC Auchan ,N10
+0.54508;46.81716;9;10;8;86;Châtellerault;73 Boulevard de Blossac
+0.21711;47.97375;7;10;2;72;Le Mans;CC Carrefour Centre Sud
+0.19619;48.00369;3;9;5;72;Le Mans;25 Place de la République
+0.19874;48.00641;8;5;1;72;Le Mans;CC Les Jacobins ,13 Rue Blondeau
+0.17457;48.04227;6;10;9;72;La Chapelle Saint-Aubin;CC Auchan
+0.65275;48.18692;4;6;2;72;La Ferté-Bernard;14 Rue Denfert-Rochereau
+0.08787;48.431;7;9;3;61;Alençon;4 Rue du Jeudi
+0.06151;48.4333;5;2;6;61;Condé-sur-Sarthe;CC Carrefour
+1.82345;48.64428;7;7;5;78;Rambouillet;Rue du Général de Gaulle
+2.17206;48.67639;1;1;9;91;Les Ulis;CC Les Ulis 2
+2.25333;48.70441;6;10;2;91;Villebon-sur-Yvette;CC Villebon 2
+0.62584;48.76374;4;6;7;61;L’Aigle;29 bis Rue Bec Ham
+2.22137;48.78192;10;9;8;78;Vélizy-Villacoublay;CC Régional Vélizy 2 NIVEAU BAS PORTE 4
+2.04437;48.7831;9;7;4;78;Montigny-le-Bretonneux;Espace Saint-Quentin
+2.13087;48.80618;7;0;4;78;Versailles;Rue au Pain
+2.25183;48.82057;0;9;0;92;Issy-les-Moulineaux;CC Les Trois Moulins
+2.11767;48.82658;7;7;1;78;Le Chesnay;CC Parly 2
+1.96079;48.82893;7;4;4;78;Plaisir;Grand Plaisir
+0.07895;49.3598;0;3;5;14;Deauville;32 Rue Désiré Le Hoc
+0.10932;49.52168;7;3;0;76;Le Havre;CC Auchan Grand-Cap
+0.10943;49.49367;0;3;4;76;Le Havre;62 Place de l’Hôtel de Ville
+0.11085;49.49588;7;2;0;76;Le Havre;22 Rue Casimir Perier
+0.18997;49.52672;0;9;7;76;Montivilliers;CC Auchan La Lézarde
+0.22439;49.14521;9;5;8;14;Lisieux;4 Rue des Mathurins
+0.22587;49.50762;7;5;9;76;Gonfreville-L’Orcher;CC Leclerc L’Océane
+0.51521;49.35604;10;2;0;27;Pont-Audemer;28 Rue de la République
+0.75287;49.61798;5;6;2;76;Yvetot;26 bis Rue des Victoires
+0.96711;49.53664;8;6;3;76;Barentin;CC Carrefour Le Mesnil Roux
+1.00539;49.28973;5;0;8;76;Elbeuf;154 Rue Charles Mouchel
+1.07516;49.92398;2;9;3;76;Dieppe;16 Rue Victor Hugo
+1.07822;49.90939;0;10;8;76;Dieppe;CC Auchan Belvedère
+1.09087;49.44306;6;8;3;76;Rouen;4 Rue Guillaume Le Conquérant
+1.09309;49.47128;6;10;9;76;Mont-Saint-Aignan;CC Carrefour La Vatine
+1.09632;49.32904;6;6;10;76;Tourville-la-Rivière;CC Carrefour
+1.14687;49.02603;6;0;4;27;Evreux;23 Rue du Docteur Oursel
+1.16734;49.21087;6;5;2;27;Louviers;31 Rue du Général de Gaulle
+1.17293;49.01361;6;5;3;27;Evreux;CC Carrefour
+1.42064;50.05123;5;0;8;76;Eu;35 Rue Charles Morin
+1.48567;49.09194;10;2;2;27;Vernon;21 Rue Saint-Jacques
+1.68522;48.98065;10;3;4;78;Buchelay;Centre Commercial Porte de Normandie
+2.03394;48.90908;4;5;0;78;Chambourcy;CC Carrefour
+2.1447;48.92792;7;1;5;78;Montesson;CC Carrefour
+2.19686;48.94633;1;5;7;78;Sartrouville;CC Carrefour de Sartrouville
+2.23732;48.89079;10;8;8;92;Puteaux;CC Quatre-Temps
+5.78407;43.83176;4;3;2;4;Manosque;Boulevard de La Plaine
+5.062;43.9307;5;9;0;84;L'Isle sur la Sorgue;CC La Rode
+5.69335;45.14975;0;2;3;38;Echirolles;CC Comboire
+5.73229;45.15825;8;7;10;38;Grenoble;CC Grand-Place
+3.42285;46.12616;2;3;10;3;Vichy;CC LES 4 CHEMINS, 35 Rue Lucas,
+7.74695;48.58286;9;4;0;67;Strasbourg;10 Rue des Grandes Arcades
+7.74472;48.58362;6;6;6;67;Strasbourg;Place Kléber
+2.45066;48.58404;10;5;0;91;Villabé;CC Villabé
+7.75763;48.58469;3;3;4;67;Strasbourg;26 Avenue de la Marseillaise
+2.30432;48.58524;9;10;6;91;Brétigny-sur-Orge;CC Auchan
+7.74234;48.58577;1;6;0;67;Strasbourg;24 Place des Halles
+2.42603;48.62863;8;1;9;91;Évry;CC Evry 2
+2.37316;48.71151;1;5;2;91;Athis-Mons;CC Carrefour
+2.27702;48.72561;6;9;10;91;Massy;Centre Commercial Cora
+2.30307;48.75372;9;10;7;92;Antony;13 Rue Auguste Mounié
+2.37166;48.75569;6;9;0;94;Thias;CC Belle Epine
+2.60899;48.77678;7;2;0;77;Pontault-Combault;CC Régional
+2.29172;48.77849;0;2;7;92;Sceaux;Rue Houdan
+2.45641;48.77861;4;3;2;94;Créteil;CC Créteil Soleil
+2.3145;48.77943;10;0;4;92;Bourg-la-Reine;Rue René Roeckel
+2.31381;48.80572;3;3;3;92;Bagneux;Avenue Henri Ravera
+2.32914;48.81119;2;8;9;94;Arcueil;CC de la Vache Noire
+2.36253;48.8115;2;1;8;94;Le Kremlin-Bicêtre;CC Okabé
+2.31948;48.81805;10;1;8;92;Montrouge;Avenue de la République
+2.35547;48.82843;9;1;8;75;Paris 13;CC Italie2
+2.32941;48.83034;0;7;1;75;Paris 14;39 Avenue du Général Leclerc
+2.29011;48.91041;10;9;1;92;Asnières-sur-Seine;2 Rue Pierre Brossolette
+2.29044;48.8793;8;6;9;75;Paris 17;69 Avenue des Ternes
+2.29788;48.87247;7;5;10;75;Paris 08;125 Avenue des Champs-Elysées
+2.30617;48.96989;5;8;3;95;Enghien-les-Bains;Rue du Général de Gaulle
+2.32286;48.84281;10;9;0;75;Paris 15;CC Maine-Montparnasse
+2.33309;48.88404;6;10;5;75;Paris 18;2 Rue Lepic
+2.33369;48.87271;9;3;2;75;Paris 09;23 Boulevard Haussmann
+2.33965;48.85241;7;4;4;75;Paris 06;126 Boulevard Saint-Germain
+2.34083;49.04029;9;3;4;95;Moisselles;CC Domont-Moisselles
+2.34331;48.8759;9;6;8;75;Paris 09;61 Rue La Fayette
+2.3584;48.85598;3;2;1;75;Paris 04;20 Rue de Rivoli
+2.36349;48.86695;2;8;0;75;Paris 03;13 Place de la République
+2.3685;48.85443;8;7;10;75;Paris 04;9 Boulevard Beaumarchais
+2.37218;48.8522;0;1;5;75;Paris 12;40 Rue du Faubourg Saint-Antoine
+2.37518;48.90308;8;3;4;93;Aubervilliers;CC Le Millénaire
+2.37647;48.85106;7;7;6;75;Paris 12;100 Rue du Faubourg Saint-Antoine
+2.39393;48.8401;8;6;3;75;Paris 12;Avenue Daumesnil
+2.42152;48.91944;2;4;3;93;Drancy;CC Avenir
+2.44711;48.90632;1;5;5;93;Bobigny;CC Bobigny2
+2.47716;48.88423;2;5;3;93;Rosny-sous-Bois;CC Rosny 2
+2.48384;48.8371;2;0;10;94;Nogent-sur-Marne;108 Gd Rue Charles de Gaulle
+2.54565;48.84044;9;1;6;93;Noisy-le-Grand;CC Arcades
+2.54585;48.83876;6;6;1;93;Noisy-le-Grand;234 Closerie Mont d'Est
+2.6612;48.83766;6;2;2;77;Collégien;CC Bay 2
+2.6621;48.94633;1;2;0;77;Claye-Souilly;CC Carrefour
+2.92385;49.9394;6;10;2;80;Péronne;CC Intermarché
+5.04043;43.83586;4;9;5;84;Cavaillon;97 Cr Victor Hugo
+5.39947;43.87658;3;3;3;84;Apt;246 Quai Général Leclerc
+4.80634;43.94871;6;9;5;84;Avignon;3 Rue des Marchands
+5.03791;44.04971;7;9;5;84;Carpentras;463 Avenue Frédéric Mistral
+5.05376;44.05592;3;0;2;84;Carpentras;67 Avenue du Mont Ventoux
+4.86383;43.95914;6;8;1;84;Le Pontet;CC Avignon Nord
+4.86576;43.92146;5;7;3;84;Avignon;CC Mistral 7
+4.81003;44.13738;9;3;9;84;Orange;19 Rue de la République
+4.83599;43.92861;0;2;4;84;Avignon;CC Cap Sud
+2.23855;48.89199;5;5;10;92;Puteaux;Hall RER
+-3.46181;48.73205;1;2;2;22;Lannion;Quai d'Aiguillon ,Près de la Poste
+-2.75994;48.51365;6;5;2;22;Saint-Brieuc;16 Rue Saint-Guillaume
+-2.51445;48.46921;5;8;0;22;Lamballe;15 Rue du Val
+-2.01331;48.63428;0;10;4;35;Saint-Malo;63 Rue ville Pépin
+-1.68094;48.10652;9;1;10;35;Rennes;22 Rue Tronjolly
+-1.63332;48.13058;1;6;7;35;Rennes;CC Intermarché Long-Champs ,Allée Morvan Lebesque
+-1.71425;48.10412;9;6;8;35;Rennes;CC Leclerc Cleunay
+-1.20047;48.35292;9;2;0;35;Fougères;6 Boulevard Jean Jaurès
+-2.7591;47.65903;8;5;3;56;Vannes;23 Rue Joseph le Brix

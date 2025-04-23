@@ -8,12 +8,12 @@ longitude;latitude;shopDescription;sunusng;ipom;weiwei
 -1.57205;47.19424;[Orange] 44 Rezé (CC Leclerc Atout Sud ,1 Rue Ordronneau);10;6;3
 -1.53510;47.20456;[Orange] 44 Nantes (6 Rue du Dr Zamenhoff ,CC Beaulieu);10;3;10
 -1.55925;47.21496;[Orange] 44 Nantes (14 Rue de la Contrescarpe);2;8;8
--3.16566;48.56226;[Orange] 22 Guingamp;5;4;1
+-3.16566;48.56226;[Orange] 22 Guingamp (10 Place du champ au Roy);5;4;1
 -1.55471;47.21563;[Orange] 44 Nantes (28 Rue de la Marne ,Quartier Decré);2;10;10
 -1.63044;47.22492;[Orange] 44 Saint-Herblain (CC Atlantis);2;6;9
 -1.51842;47.25076;[Orange] 44 Nantes (14 Route de Paris ,CC Paridis);6;5;3
 -2.26452;47.25845;[Orange] 44 Saint-Nazaire (CC Géant Océanis);8;5;10
--2.21331;47.27441;[Orange nv] 44 Saint-Nazaire (2 Avenue de la République);7;0;3
+-2.21331;47.27441;[Orange] 44 Saint-Nazaire (2 Avenue de la République);7;0;3
 -2.39138;47.28597;[Orange] 44 La Baule-Escoublac (128 Avenue du Général de Gaulle);2;0;8
 -2.20884;47.30136;[Orange] 44 Trignac (CC Auchan);9;3;8
 -2.42696;47.32693;[Orange] 44 Guérande (Place du Marhallé);10;10;7
@@ -26,7 +26,7 @@ longitude;latitude;shopDescription;sunusng;ipom;weiwei
 -3.36336;47.74834;[Orange] 56 Lorient (13 Place Aritstide Briand);3;10;5
 -3.39713;47.76576;[Orange] 56 Lorient (CC Carrefour);5;3;1
 -0.36795;43.29456;[Orange] 64 Pau (Rue Louis Barthou);6;9;5
--1.05382;43.70975;[Orange nv] 40 Dax (38 Rue des Carmes);7;5;7
+-1.05382;43.70975;[Orange] 40 Dax (38 Rue des Carmes);7;5;7
 -0.58472;44.83872;[Orange] 33 Bordeaux (CC Mériadeck);2;6;1
 -0.57845;44.84174;[Orange] 33 Bordeaux (52 Cours de l'Intendance);5;1;1
 -0.22136;44.90157;[Orange] 33 Libourne (CC Carrefour ,102 Avenue Général de Gaulle);9;9;2
@@ -38,10 +38,10 @@ longitude;latitude;shopDescription;sunusng;ipom;weiwei
 -1.15074;46.16116;[Orange] 17 La Rochelle (31 Rue Saint-Yon);0;7;9
 -1.11774;46.17372;[Orange] 17 Puilboreau (CC Carrefour ,ZA de Beaulieu);8;2;6
 -0.46229;46.32487;[Orange] 79 Niort (26 Rue Victor Hugo);2;6;9
--0.80670;46.46630;[Orange nv] 85 Fontenay-le-Comte (12 Rue Georges Clémenceau);7;0;7
+-0.80670;46.46630;[Orange] 85 Fontenay-le-Comte (12 Rue Georges Clémenceau);7;0;7
 -0.24949;46.64810;[Orange] 79 Parthenay (38 Rue Jean Jaurès);8;3;3
 -0.49274;46.83925;[Orange] 79 Bressuire (23 Rue de la Huchette);3;7;10
--1.01455;46.87096;[Orange nv] 85 Les Herbiers (17 Rue de l’Eglise);5;4;5
+-1.01455;46.87096;[Orange] 85 Les Herbiers (17 Rue de l’Eglise);5;4;5
 -0.90116;47.04227;[Orange] 49 Cholet (CC Géant ,Route des Sables d’O.);0;2;1
 -0.87739;47.06253;[Orange] 49 Cholet (Place Alexis Guérineau);3;4;7
 -0.07864;47.25827;[Orange] 49 Saumur (35 Rue du Portail Louis);9;7;2
@@ -65,7 +65,7 @@ longitude;latitude;shopDescription;sunusng;ipom;weiwei
 -4.10309;47.99614;[Orange] 29 Quimper (26 Place Saint-Corentin);4;7;8
 -4.09288;47.97566;[Orange] 29 Quimper (CC Géant Cornouaille ,163 Route de Bénodet);6;2;0
 -4.08128;48.01498;[Orange] 29 Quimper (CC Gourvily);9;10;8
--4.07054;48.50978;[Orange] 29 Landivisiau;2;5;0
+-4.07054;48.50978;[Orange] 29 Landivisiau (6 RUE DE LA TOUR D'AUVERGNE);2;5;0
 -3.82825;48.57815;[Orange] 29 Morlaix (8 Place des Otages);2;6;5
 -3.91796;47.87188;[Orange] 29 Concarneau (2 Place Jean Jaurès);0;0;10
 -3.85191;48.57439;[Orange] 29 Saint-Martin-des-Champs (CC Géant Bretagnia);1;2;9
@@ -73,22 +73,22 @@ longitude;latitude;shopDescription;sunusng;ipom;weiwei
 -3.34343;47.77556;[Orange] 56 Lanester (CC Géant);6;9;5
 -3.14917;48.56153;[Orange] 22 Guingamp (10 Place du Champ au Roy);3;4;0
 -2.96570;48.06652;[Orange] 56 Pontivy (46 Rue Nationale);1;9;9
--2.72855;48.49653;[Orange nv] 22 Langueux (1 Rue Jules Verne);5;10;6
+-2.72855;48.49653;[Orange] 22 Langueux (1 Rue Jules Verne);5;10;6
 -2.39831;47.93103;[Orange] 56 Ploërmel (Rue du Général Dubreton);0;9;7
 -2.04863;48.45374;[Orange] 22 Dinan (2 Rue Châteaubriand);2;5;5
 -0.77394;48.07069;[Orange] 53 Laval (5 Avenue du Général de Gaulle);7;8;1
 -0.79960;48.07934;[Orange] 53 Laval (CC Grenoux ,Boulevard de Tassigny);1;0;8
 -1.67791;48.08253;[Orange] 35 Rennes (CC Alma ,Rue du Bosphore);4;7;5
 -1.67945;48.10465;[Orange] 35 Rennes (40 Place du Colombier);4;7;3
--1.67796;48.10986;[Orange nv] 35 Rennes (Place de la République);2;5;10
+-1.67796;48.10986;[Orange] 35 Rennes (Place de la République);2;5;10
 -1.58947;48.11220;[Orange] 35 Cesson-Sévigné (CC Carrefour La Rigoudière);3;2;8
 -1.67946;48.11331;[Orange] 35 Rennes (9 Rue Bastard);8;0;8
 -1.20714;48.11484;[Orange] 35 Vitré (CC Leclerc ,Rue du Mée);0;2;4
 -1.69580;48.13841;[Orange] 35 Rennes (CC Géant Grand-Quartier);9;5;1
 -1.76676;48.13900;[Orange] 35 Pacé (CC Cora ,ZA de la Giraudais);1;1;6
--0.62209;48.30347;[Orange nv] 53 Mayenne (40 Place Gambetta);2;1;10
+-0.62209;48.30347;[Orange] 53 Mayenne (40 Place Gambetta);2;1;10
 -1.18218;48.34660;[Orange] 35 Fougères (CC Carrefour ,39 Boulevard Grolay);9;1;8
--1.99573;48.62401;[Orange nv] 35 Saint-Malo (CC La Madeleine);9;5;2
+-1.99573;48.62401;[Orange] 35 Saint-Malo (CC La Madeleine);9;5;2
 -1.36046;48.68554;[Orange] 50 Avranches (17 Rue de la Constitution);10;8;2
 -0.02044;48.74427;[Orange] 61 Argentan (36 Rue de la Chaussée);6;0;7
 -0.56827;48.74850;[Orange] 61 Flers (5 Rue de Messei);2;8;10
@@ -122,7 +122,7 @@ longitude;latitude;shopDescription;sunusng;ipom;weiwei
 2.17206;48.67639;[Orange] 91 Les Ulis (CC Les Ulis 2);1;1;9
 2.25333;48.70441;[Orange] 91 Villebon-sur-Yvette (CC Villebon 2);6;10;2
 0.62584;48.76374;[Orange] 61 L’Aigle (29 bis Rue Bec Ham);4;6;7
-2.22137;48.78192;[Orange] 78 Vélizy-Villacoublay;10;9;8
+2.22137;48.78192;[Orange] 78 Vélizy-Villacoublay ( CC Régional Vélizy 2 NIVEAU BAS PORTE 4);10;9;8
 2.04437;48.78310;[Orange] 78 Montigny-le-Bretonneux (Espace Saint-Quentin);9;7;4
 2.13087;48.80618;[Orange] 78 Versailles (Rue au Pain);7;0;4
 2.25183;48.82057;[Orange] 92 Issy-les-Moulineaux (CC Les Trois Moulins);0;9;0
@@ -158,7 +158,7 @@ longitude;latitude;shopDescription;sunusng;ipom;weiwei
 5.06200;43.93070;[Orange] 84 L'Isle sur la Sorgue (CC La Rode);5;9;0
 5.69335;45.14975;[Orange] 38 Echirolles (CC Comboire);0;2;3
 5.73229;45.15825;[Orange] 38 Grenoble (CC Grand-Place);8;7;10
-3.42285;46.12616;[Orange] 03 Vichy;2;3;10
+3.42285;46.12616;[Orange] 03 Vichy (CC LES 4 CHEMINS, 35 Rue Lucas,);2;3;10
 7.74695;48.58286;[Orange] 67 Strasbourg (10 Rue des Grandes Arcades);9;4;0
 7.74472;48.58362;[Orange] 67 Strasbourg (Place Kléber);6;6;6
 2.45066;48.58404;[Orange] 91 Villabé (CC Villabé);10;5;0
@@ -200,13 +200,13 @@ longitude;latitude;shopDescription;sunusng;ipom;weiwei
 2.42152;48.91944;[Orange] 93 Drancy (CC Avenir);2;4;3
 2.44711;48.90632;[Orange] 93 Bobigny (CC Bobigny2);1;5;5
 2.47716;48.88423;[Orange] 93 Rosny-sous-Bois (CC Rosny 2);2;5;3
-2.48384;48.83710;[Orange] 94 Nogent-sur-Marne;2;0;10
+2.48384;48.83710;[Orange] 94 Nogent-sur-Marne (108 Gd Rue Charles de Gaulle);2;0;10
 2.54565;48.84044;[Orange] 93 Noisy-le-Grand (CC Arcades);9;1;6
-2.54585;48.83876;[Orange] 93 Noisy-le-Grand;6;6;1
+2.54585;48.83876;[Orange] 93 Noisy-le-Grand (234 Closerie Mont d'Est);6;6;1
 2.66120;48.83766;[Orange] 77 Collégien (CC Bay 2);6;2;2
 2.66210;48.94633;[Orange] 77 Claye-Souilly (CC Carrefour);1;2;0
 2.92385;49.93940;[Orange] 80 Péronne (CC Intermarché);6;10;2
-5.04043;43.83586;[Orange] 84 Cavaillon;4;9;5
+5.04043;43.83586;[Orange] 84 Cavaillon (97 Cr Victor Hugo);4;9;5
 5.39947;43.87658;[Orange] 84 Apt (246 Quai Général Leclerc);3;3;3
 4.80634;43.94871;[Orange] 84 Avignon (3 Rue des Marchands);6;9;5
 5.03791;44.04971;[Orange] 84 Carpentras (463 Avenue Frédéric Mistral);7;9;5
@@ -217,7 +217,7 @@ longitude;latitude;shopDescription;sunusng;ipom;weiwei
 4.83599;43.92861;[Orange] 84 Avignon (CC Cap Sud);0;2;4
 2.23855;48.89199;[Orange] 92 Puteaux (Hall RER);5;5;10
 -3.46181;48.73205;[Orange] 22 Lannion (Quai d'Aiguillon ,Près de la Poste);1;2;2
--2.75994;48.51365;[Orange nv] 22 Saint-Brieuc (16 Rue Saint-Guillaume);6;5;2
+-2.75994;48.51365;[Orange] 22 Saint-Brieuc (16 Rue Saint-Guillaume);6;5;2
 -2.51445;48.46921;[Orange] 22 Lamballe (15 Rue du Val);5;8;0
 -2.01331;48.63428;[Orange] 35 Saint-Malo (63 Rue ville Pépin);0;10;4
 -1.68094;48.10652;[Orange] 35 Rennes (22 Rue Tronjolly);9;1;10
